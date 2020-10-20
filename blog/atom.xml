@@ -10,8 +10,8 @@ layout: feed
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://awangadang.github.io/blog</id>
  <author>
-   <name>Hank Quinlan</name>
-   <email>awangadanghub@gmail.com</email>
+   <name>Adrian Wang</name>
+   <email>adriantwang@gmail.com</email>
  </author>
 
  {% for post in site.posts %}
